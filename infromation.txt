@@ -1,0 +1,11 @@
+1) Take a sentence
+2) encoding='utf-8' used for data that is imported from internet
+3) Remove all uppercase and special character
+4) Tokanizing
+    Breaking a sentence into single words and storing it in a list
+5) Removing stop word
+    Words that don't add meaning to the sentences eg I
+6) Selecting specific emotion for certain word from emotion.txt  "ctrl+alt+l" auto formating
+7) Matching the final word with the list of emotion we have
+8) Counting the number of emotion eg 2sad, 4 happy etc
+9) Plotting graph
